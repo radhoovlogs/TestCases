@@ -1,8 +1,7 @@
-# Exemple de TestCases
+# Test Case Samples
 
 
-**Summary**
-Description: 
+**Description:** 
 Check if the login works when a person uses a correct user/pass.
 
 **Steps to Reproduce:**
